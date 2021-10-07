@@ -2,6 +2,22 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
+## Command to create a new project
+
+`ng new crud-angular`
+
+## Add Angular Material to the project
+
+`ng add @angular/material`
+
+## Add module Courses
+
+`ng g m cursos`
+
+## Add component Courses
+
+`ng g c courses/courses`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
